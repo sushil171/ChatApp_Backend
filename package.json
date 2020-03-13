@@ -1,0 +1,18 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is a simple chatapp using socket.io,node.js,express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushil Maurya",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
